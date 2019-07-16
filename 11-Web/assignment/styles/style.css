@@ -1,0 +1,36 @@
+
+
+/* body{
+    background-color: green;
+} */
+.Cloudiness{
+    color: black;
+}
+.card m-4{
+    color: red;
+}
+.table table-bordered table-hover table-condensed {
+    border-collapse: collapse;
+    border: 5px red;
+}
+.navbar {
+    position: sticky;
+    top:0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(to right, #a517ba,#5f1782);
+}
+.navbar navbar-expand-lg navbar-light{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    position: sticky;
+    top:0;
+    z-index: 10;
+    background-color:linear-gradient(to right, light green, rgb(1, 66, 1));
+    
+}
+
+
+
+  /* table-bordered table-hover table-condensed" */
